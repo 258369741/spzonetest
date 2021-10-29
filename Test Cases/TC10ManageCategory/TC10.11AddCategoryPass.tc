@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ทดสอบการเพิ่มหมวดหมู่สินค้า</description>
+   <name>TC10.11AddCategoryPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a357b155-61e4-400b-8ff4-2722293e89c3</testCaseGuid>
+</TestCaseEntity>

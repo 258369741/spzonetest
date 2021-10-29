@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ไม่แนบหลักฐานการโอนเงิน</description>
+   <name>TC6-1-2(Fail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32ae17a8-1aa6-4b82-9963-774c9b47e585</testCaseGuid>
+</TestCaseEntity>

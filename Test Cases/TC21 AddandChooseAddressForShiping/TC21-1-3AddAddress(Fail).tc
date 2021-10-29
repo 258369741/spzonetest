@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ไม่เลือกอำเภอ</description>
+   <name>TC21-1-3AddAddress(Fail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2db55146-f81e-4521-bedf-38893708dcb8</testCaseGuid>
+</TestCaseEntity>

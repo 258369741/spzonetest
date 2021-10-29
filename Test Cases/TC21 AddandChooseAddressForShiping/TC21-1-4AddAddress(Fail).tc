@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ไม่กรอกอะไรเลย</description>
+   <name>TC21-1-4AddAddress(Fail)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab0f2fb9-8adc-4b84-801b-5039b5f206e7</testCaseGuid>
+</TestCaseEntity>

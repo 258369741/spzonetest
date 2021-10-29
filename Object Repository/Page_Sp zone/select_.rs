@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>bda4335e-afed-43c5-baf8-c1d4304ddf38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;Modal_Add_Address_Payment&quot;]/div/div[4]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;A_province&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Province</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>A_province</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>กรุงเทพมหานคร   สมุทรปราการ   นนทบุรี   ปทุมธานี   พระนครศรีอยุธยา   อ่างทอง   ลพบุรี   สิงห์บุรี   ชัยนาท   สระบุรีชลบุรี   ระยอง   จันทบุรี   ตราด   ฉะเชิงเทรา   ปราจีนบุรี   นครนายก   สระแก้ว   นครราชสีมา   บุรีรัมย์   สุรินทร์   ศรีสะเกษ   อุบลราชธานี   ยโสธร   ชัยภูมิ   อำนาจเจริญ   หนองบัวลำภู   ขอนแก่น   อุดรธานี   เลย   หนองคาย   มหาสารคาม   ร้อยเอ็ด   กาฬสินธุ์   สกลนคร   นครพนม   มุกดาหาร   เชียงใหม่   ลำพูน   ลำปาง   อุตรดิตถ์   แพร่   น่าน   พะเยา   เชียงราย   แม่ฮ่องสอน   นครสวรรค์   อุทัยธานี   กำแพงเพชร   ตาก   สุโขทัย   พิษณุโลก   พิจิตร   เพชรบูรณ์   ราชบุรี   กาญจนบุรี   สุพรรณบุรี   นครปฐม   สมุทรสาคร   สมุทรสงคราม   เพชรบุรี   ประจวบคีรีขันธ์   นครศรีธรรมราช   กระบี่   พังงา   ภูเก็ต   สุราษฎร์ธานี   ระนอง   ชุมพร   สงขลา   สตูล   ตรัง   พัทลุง   ปัตตานี   ยะลา   นราธิวาส   บึงกาฬ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Modal_Add_Address_Payment&quot;)/div[@class=&quot;Modal_Add_Address_Payment_body&quot;]/div[@class=&quot;input_Address_Payment_Province&quot;]/select[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='A_province']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Modal_Add_Address_Payment']/div/div[4]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[2]/preceding::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful purchase'])[1]/preceding::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[2]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Address'])[3]/preceding::select[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to cancel the edit?'])[1]/preceding::select[4]</value>
+   </webElementXpaths>
+</WebElementEntity>
